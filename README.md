@@ -22,4 +22,4 @@ Yêu cầu: tạo ra một menu với các chức năng sau:
 6. Sắp xếp sinh viên theo ID.
 8. Hiển thị danh sách sinh viên.
 
-optional: không cho phép người dùng nhập sai quá 5 lần giá trị được quy định trong menu
+Tùy chọn: không cho phép người dùng nhập sai quá 5 lần giá trị được quy định trong menu
